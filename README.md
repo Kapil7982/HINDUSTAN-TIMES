@@ -4,7 +4,7 @@ GROUP PROJECT
 # HINDUSTAN-TIMES
 GROUP PROJECT
 
-I have created basic components in Hindustan-Times Website such as E-Paper, Sign-Up Page and Navbar.
+An online E-newspaper for saving times and provides readability access to anywhere.
 
 ## Landing Page
 ![Hindustan-Times](https://user-images.githubusercontent.com/36689521/190002117-75906552-4883-418d-bb39-960c2c862166.png)
